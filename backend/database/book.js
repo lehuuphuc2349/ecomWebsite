@@ -17,7 +17,7 @@ const product = [
     name: "One Last Stop",
     category: "Book",
     categoryBook: "Children's Books",
-    price: "$10.48",
+    price: "10.48",
     countInStock: "3",
     ratting: "426",
     pages: "432",
@@ -34,7 +34,7 @@ const product = [
       "I Love Dad with The Very Hungry Caterpillar (The World of Eric Carle)",
     category: "Book",
     categoryBook: "Children's Books",
-    price: "$6.62",
+    price: "6.62",
     countInStock: "4",
     ratting: "3920",
     pages: "32",
@@ -50,7 +50,7 @@ const product = [
     name: "Web Design with HTML, CSS, JavaScript and jQuery Set",
     category: "Book",
     categoryBook: "Computers & Technology",
-    price: "$26.50",
+    price: "26.50",
     countInStock: "10",
     ratting: "3369",
     pages: "1152",
@@ -67,7 +67,7 @@ const product = [
       "Cracking the Coding Interview: 189 Programming Questions and Solutions",
     category: "Book",
     categoryBook: "Computers & Technology",
-    price: "$24.49",
+    price: "24.49",
     countInStock: "10",
     ratting: "5107",
     pages: "687",
@@ -85,7 +85,7 @@ const product = [
       "Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones",
     category: "Book",
     categoryBook: "Business & Money",
-    price: "$9.99",
+    price: "9.99",
     countInStock: "10",
     ratting: "44325",
     pages: "400",
@@ -95,5 +95,90 @@ const product = [
       "https://www.hoogi.com.au/wp-content/uploads/2019/05/IMG_3402-768x1024.jpg",
     image: "https://m.media-amazon.com/images/I/513Y5o-DYtL.jpg",
     description: `No matter your goals, Atomic Habits offers a proven framework for improving - every day. James Clear, one of the world's leading experts on habit formation, reveals practical strategies that will teach you exactly how to form good habits, break bad ones, and master the tiny behaviors that lead to remarkable results`,
+  },
+  {
+    name:
+      "Breaking the News: Exposing the Establishment Media's Hidden Deals and Secret Corruption",
+    category: "Book",
+    categoryBook: "Business & Money",
+    price: "14.99",
+    countInStock: "10",
+    ratting: "1000",
+    pages: "368",
+    year: "2021",
+    author: "Alex Marlow",
+    authorImage:
+      "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQbSD0jNwTwgd725BRcEhbDY-v1ld3KP8BgQg&usqp=CAU",
+    image:
+      "https://images-na.ssl-images-amazon.com/images/I/410a1B-INCL._SX327_BO1,204,203,200_.jpg",
+    description:
+      "“Everyone wants to criticize the media, but not many have the goods. Alex Marlow drops fact after fact in this devastating portrait—a must-read.” —Peter Schweizer, New York Times bestselling author of Clinton Cash and Profiles in Corruption",
+  },
+  {
+    name:
+      "The Intelligent Investor: The Definitive Book on Value Investing. A Book of Practical Counsel (Revised Edition)",
+    category: "Book",
+    categoryBook: "Economics",
+    price: "14.29",
+    countInStock: "10",
+    ratting: "2304",
+    pages: "640",
+    year: "2006",
+    author: "Benjamin Graham",
+    authorImage:
+      "https://247tradingpro.com/wp-content/uploads/2021/01/20210121-benjamin-graham-01.png",
+    image:
+      "https://images-na.ssl-images-amazon.com/images/I/51fESaIGgVL._SX323_BO1,204,203,200_.jpg",
+    description: `The greatest investment advisor of the twentieth century, Benjamin Graham, taught and inspired people worldwide. Graham's philosophy of "value investing" -- which shields investors from substantial error and teaches them to develop long-term strategies -- has made The Intelligent Investor the stock market bible ever since its original publication in 1949.`,
+  },
+  {
+    name: "Maverick: A Biography of Thomas Sowell",
+    category: "Book",
+    categoryBook: "Economics",
+    price: "18.60",
+    countInStock: "2",
+    ratting: "700",
+    pages: "304",
+    year: "2021",
+    author: "Jason L Riley",
+    authorImage:
+      "https://www.reed.edu/reed-magazine/assets/images/2018/jason-riley-eliot-chapel.jpg",
+    image:
+      "https://images-na.ssl-images-amazon.com/images/I/41g2pGvbLGL._SX321_BO1,204,203,200_.jpg",
+    description:
+      "In the first-ever biography of Sowell, Jason L. Riley gives this iconic thinker his due and responds to the detractors. Maverick showcases Sowell's most significant writings and traces the life events that shaped his ideas and resulted in a Black orphan from the Jim Crow South becoming one of our foremost public intellectuals.",
+  },
+  {
+    name:
+      "What Happened to You?: Conversations on Trauma, Resilience, and Healing",
+    category: "Book",
+    categoryBook: "Health, Fitness & Dieting",
+    price: "17.39",
+    countInStock: "10",
+    ratting: "1302",
+    pages: "304",
+    year: "2021",
+    author: "Oprah Winfrey",
+    authorImage:
+      "https://saovadoanhnhan.com/wp-content/uploads/2020/04/saovadoanhnhan-Oprah-Winfrey.jpg",
+    image:
+      "https://images-na.ssl-images-amazon.com/images/I/31LXam5J2IL._SX317_BO1,204,203,200_.jpg",
+    description: `This book is going to change the way you see your life. Have you ever wondered "Why did I do that?" or "Why can't I just control my behavior?" Others may judge our reactions and think, "What's wrong with that person?" When questioning our emotions, it's easy to place the blame on ourselves; holding ourselves and those around us to an impossible standard. It's time we started asking a different question.`,
+  },
+  {
+    name: "Publication Manual of the American Psychological Association",
+    category: "Book",
+    categoryBook: "Health, Fitness & Dieting",
+    price: "25.91",
+    countInStock: "100",
+    ratting: "13102",
+    pages: "428",
+    year: "2019",
+    author: "American Psychological Association",
+    authorImage:
+      "https://upload.wikimedia.org/wikipedia/en/thumb/2/22/American_Psychological_Association_logo.svg/440px-American_Psychological_Association_logo.svg.png",
+    image:
+      "https://images-na.ssl-images-amazon.com/images/I/41pbe4-oNpL._SX348_BO1,204,203,200_.jpg",
+    description: `A WALL STREET JOURNAL BESTSELLER - The new 2020 copyright release of the Publication Manual of the American Psychological Association, Seventh Edition includes three different formats — spiral and tabbed, paperback, and hardcover, all of which are full-color. It is the official source for APA Style. With millions of copies sold worldwide in multiple languages, it is the style manual of choice for writers, researchers, editors, students, and educators in the social and behavioral sciences, natural sciences, nursing, communications, education, business, engineering, and other fields.`,
   },
 ];
