@@ -12,7 +12,7 @@ const format = {
   image: "",
   description: "",
 };
-const product = [
+const book = [
   {
     name: "One Last Stop",
     category: "Book",
@@ -182,3 +182,5 @@ const product = [
     description: `A WALL STREET JOURNAL BESTSELLER - The new 2020 copyright release of the Publication Manual of the American Psychological Association, Seventh Edition includes three different formats — spiral and tabbed, paperback, and hardcover, all of which are full-color. It is the official source for APA Style. With millions of copies sold worldwide in multiple languages, it is the style manual of choice for writers, researchers, editors, students, and educators in the social and behavioral sciences, natural sciences, nursing, communications, education, business, engineering, and other fields.`,
   },
 ];
+
+module.exports = book;
