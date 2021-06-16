@@ -1,7 +1,7 @@
-# backend:
+# Backend
 
-core: [ExpressJS],
-package and library :
+Core: [ExpressJS],
+Package and library :
 [express]
 [cors]
 [cookie-parser]
@@ -11,10 +11,10 @@ package and library :
 [jsonwebtoken]
 [nodemon]
 
-# frontend
+## Frontend
 
-core: ReactJS
-package and library:
+Core: ReactJS
+Package and library:
 
 - reactjs
 - react-router-dom
@@ -22,11 +22,11 @@ package and library:
 - axios
 - moment
 
-# database: {
+## Database
 
-core: mongodb, mongoose
+- core: mongodb, mongoose
 
-# .Run Web App:
+## Run Web App:
 
 - First npm install for update package and npm run dev for run app.
 - npm/yarn run dev for run app
