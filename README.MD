@@ -1,15 +1,16 @@
 # Backend
 
-Core: [ExpressJS],
+Core: ExpressJS,
 Package and library :
-[express]
-[cors]
-[cookie-parser]
-[bcrypt]
-[concurrently]
-[dotenv]
-[jsonwebtoken]
-[nodemon]
+
+- express
+- cors
+- cookie-parser
+- bcrypt
+- concurrently
+- dotenv
+- jsonwebtoken
+- nodemon
 
 ## Frontend
 
