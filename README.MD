@@ -29,7 +29,7 @@ Package and library:
 
 # Run Web App:
 
-- First npm install for update package and npm run dev for run app.
+- First npm install and npm run dev for run app.
 - npm/yarn run dev for run app
 - npm/yarn run server for run server
 - npm/yarn run client for run ui
