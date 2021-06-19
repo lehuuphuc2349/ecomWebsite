@@ -1,5 +1,22 @@
-body {
+:root {
+  --backgroundColor: #242f3e;
+  --textColor: #ffffff;
+  --buttonColor: #febd69;
+  --buttonWhite: #f3f3f3;
+}
+* {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
+}
+body {
+  font-family: "Poppins", sans-serif;
+  overflow-x: hidden;
+}
+ul {
+  list-style: none;
+}
+a {
+  text-decoration: none;
+  color: var(--textColor);
 }
